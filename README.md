@@ -8,7 +8,7 @@
   <img src="1.gif" align="left" width="500" height="150">
   &nbsp;&nbsp;&nbsp; <font size="6"><b>Hey, i'm cluds</b></font><br>
   &nbsp;&nbsp;&nbsp; I am an Engineering student <br>
-  &nbsp;&nbsp;&nbsp; Сurrently expanding my skills in software development<br>
+  &nbsp;&nbsp;&nbsp; Learning software development<br>
   &nbsp;&nbsp;&nbsp; Primary project: <a href="ССЫЛКА"><b>Ovarian Cancer research</b></a> 
 </p>
 <br clear="left"/>
