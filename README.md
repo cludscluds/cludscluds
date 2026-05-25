@@ -5,7 +5,7 @@
 ---
 
 <p>
-  <img src="1.gif" align="left" width="400" height="150">
+  <img src="1.gif" align="left" width="350" height="150">
   &nbsp;&nbsp;&nbsp; <font size="6"><b>Hey, i'm cluds</b></font><br>
   &nbsp;&nbsp;&nbsp; I am an Engineering student <br>
   &nbsp;&nbsp;&nbsp; Learning software development<br>
